@@ -16,3 +16,6 @@ npx gitignore node
 
 ## git initalize
 git init
+
+## git stage change
+git add .
