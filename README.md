@@ -19,3 +19,27 @@ git init
 
 ## git stage change
 git add .
+
+## git commit
+git commit -m "first commit"
+
+## git add repository
+git remote add origin https://github.com/rudra812/CI_CD_NODEJS_DEPLOY.git
+
+
+## Hostinger deploy app procedure
+
+sudo apt-get update
+sudo apt-get upgrade
+
+docker install
+
+git clone
+
+docker compose up -d --build
+
+docker compose down
+
+
+
+
